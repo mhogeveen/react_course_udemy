@@ -1,15 +1,20 @@
 {
-   "streams": [
-      {
-         "title": "My Stream",
-         "description": "This is a great stream",
-         "id": 1
-      },
-      {
-         "title": "Using SearchForm component",
-         "description": "oi",
-         "userId": "112690583440098316777",
-         "id": 6
-      }
-   ]
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Using SearchForm component",
+      "description": "This stream is about refactoring",
+      "id": 6
+    },
+    {
+      "title": "Newestest stream",
+      "description": "Hello there",
+      "userId": "112690583440098316777",
+      "id": 7
+    }
+  ]
 }
