@@ -11,13 +11,15 @@
       "id": 2
     },
     {
-      "title": "My newestest stream",
-      "description": "Hi there.. description here",
+      "title": "First Stream with UserID",
+      "description": "Hello streamer here",
+      "userId": "112690583440098316777",
       "id": 3
     },
     {
-      "title": "stream no.4",
-      "description": "heo streaming",
+      "title": "Unexpected behaviour",
+      "description": "Didn't expect that",
+      "userId": "112690583440098316777",
       "id": 4
     }
   ]
