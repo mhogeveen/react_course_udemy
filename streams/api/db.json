@@ -1,32 +1,15 @@
 {
-  "streams": [
-    {
-      "title": "My Stream",
-      "description": "This is a great stream",
-      "id": 1
-    },
-    {
-      "title": "More strum",
-      "description": "Best strum",
-      "id": 2
-    },
-    {
-      "title": "First Stream with UserID",
-      "description": "Hello streamer here",
-      "userId": "112690583440098316777",
-      "id": 3
-    },
-    {
-      "title": "Unexpected behaviour",
-      "description": "Didn't expect that",
-      "userId": "112690583440098316777",
-      "id": 4
-    },
-    {
-      "title": "Programmatic Navigation",
-      "description": "You should not see this on the form page!!",
-      "userId": "112690583440098316777",
-      "id": 5
-    }
-  ]
+   "streams": [
+      {
+         "title": "My Stream",
+         "description": "This is a great stream",
+         "id": 1
+      },
+      {
+         "title": "Using SearchForm component",
+         "description": "oi",
+         "userId": "112690583440098316777",
+         "id": 6
+      }
+   ]
 }
