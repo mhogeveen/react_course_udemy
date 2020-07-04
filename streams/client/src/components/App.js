@@ -12,7 +12,7 @@ import StreamShow from './streams/StreamShow'
 
 const App = () => {
    return (
-      <div>
+      <>
          <Router history={history}>
             <Header />
             <div className='ui container'>
@@ -23,7 +23,7 @@ const App = () => {
                <Route path='/streams/show' component={StreamShow} />
             </div>
          </Router>
-      </div>
+      </>
    )
 }
 
