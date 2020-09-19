@@ -15,7 +15,7 @@ const useVideos = (defaultSearchTerm) => {
             part: 'snippet',
             type: 'video',
             maxResults: 10,
-            key: 'AIzaSyBXCcT14Rb0Xlo4ondpuOwQSmusJQ-AttY', // Fill in API key here
+            key: '', // Fill in API key here
          },
       })
 
